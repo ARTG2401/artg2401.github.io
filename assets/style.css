@@ -28,6 +28,15 @@ ul {
     padding: 0;
 }
 
+ul ul {
+  list-style: initial;
+  padding: 1em;
+}
+
+ul ul li {
+  font-weight: bold;
+}
+
 ul p {
     margin-bottom: 0.25rem;
 }
